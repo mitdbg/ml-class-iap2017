@@ -1,10 +1,38 @@
-## Welcome to GitHub Pages
+# A Whirlwind Tour of ML
+###_IAP 2017 course at MIT_
 
-You can use the [editor on GitHub](https://github.com/mitdbg/ml-class-iap2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About
+This course gives a high-level overview of diverse areas of machine learning. The goal is to introduce students to core concepts and techniques in ML, and provide enough of a primer on different sub-areas of ML so that students can choose the right approach for a given problem and explore interesting topics further.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The course covers an introduction to ML, Inference, Bayesian Methods and Neural Networks. Each class is taught by graduate students or post-docs at MIT working in the specific areas.
+
+The course was organized by [Manasi Vartak](http://people.csail.mit.edu/mvartak/) and [Maggie Makar](http://mmakar.scripts.mit.edu/mmakar/) from MIT CSAIL.
+
+## Session I: Introduction to ML
+This session gives an overview of supervised and unsupervised learning, and an introduction to probabilistic graphical models.
+
+Concepts: Loss functions, Linear regression, Logistic regression, SVMs, Decision trees, Random Forests, Clustering, PCA, Graphical Models, Variable Elimination 
+
+Taught by [Manasi Vartak](http://people.csail.mit.edu/mvartak/).
+
+### [Slides]()
+### Resources
+
+## Session II: Inference
+[Slides]()
+### Resources
+
+## Session III: Bayesian Methods
+[Slides]()
+### Resources
+
+## Session IV: Neural Networks
+[Slides]()
+### Resources
 
 ### Markdown
+[Slides]()
+# Resources
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
