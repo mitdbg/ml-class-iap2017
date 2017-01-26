@@ -11,7 +11,7 @@ The course was organized by [Manasi Vartak](http://people.csail.mit.edu/mvartak/
 ## Session I: Introduction to ML
 This session gives an overview of supervised and unsupervised learning, and an introduction to probabilistic graphical models.
 
-Concepts: Loss functions, Linear regression, Logistic regression, SVMs, Decision trees, Random Forests, Clustering, PCA, Graphical Models, Variable Elimination 
+_Concepts_: Loss functions, Linear regression, Logistic regression, SVMs, Decision trees, Random Forests, Clustering, PCA, Graphical Models, Variable Elimination 
 
 Taught by [Manasi Vartak](http://people.csail.mit.edu/mvartak/).
 
@@ -26,49 +26,27 @@ Taught by [Manasi Vartak](http://people.csail.mit.edu/mvartak/).
 - [Columbia University: Probabilistic Graphical Models](http://www.cs.columbia.edu/~blei/fogm/2016F/)
 
 ## Session II: Inference
+This session givesn an overview of (approximate) inference for probabilistic graphical models.
+
+_Concepts_: Gaussian Mixture Models, Variational Inference, Monte Carlo Sampling
 
 Taught by [Maggie Makar](http://mmakar.scripts.mit.edu/mmakar/)
 ###[Slides](slides/lec2.pdf)
 ### Resources
+- [Tutorial on VI](http://digitalassets.lib.berkeley.edu/ techreports/ucb/text/CSD-98-980.pdf)
+- [A Review of recent work on VI](https://arxiv.org/pdf/1602.05221v2.pdf), Section 5
+- [Tutorial on Sampling methods](http://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_ jordan_intromontecarlomachinelearning.pdf)
+- [A review (and really cool demos) of recent work on sampling](http://chifeng.scripts.mit.edu/stuff/mcmc-demo/)
 
 ## Session III: Bayesian Methods
+
+Taught by [Trevor Campbell](http://trevorcampbell.me/)
+
 [Slides]()
 ### Resources
 
 ## Session IV: Neural Networks
+
+Taught by [Carl Vondrick](http://web.mit.edu/vondrick/)
 [Slides]()
 ### Resources
-
-### Markdown
-[Slides]()
-# Resources
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mitdbg/ml-class-iap2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
