@@ -15,7 +15,7 @@ Concepts: Loss functions, Linear regression, Logistic regression, SVMs, Decision
 
 Taught by [Manasi Vartak](http://people.csail.mit.edu/mvartak/).
 
-### [Slides]()
+### [Slides](slides/lec1.pdf)
 ### Resources
 
 ## Session II: Inference
