@@ -19,7 +19,9 @@ Taught by [Manasi Vartak](http://people.csail.mit.edu/mvartak/).
 ### Resources
 
 ## Session II: Inference
-[Slides]()
+
+Taught by [Maggie Makar](http://mmakar.scripts.mit.edu/mmakar/)
+###[Slides](slides/lec2.pdf)
 ### Resources
 
 ## Session III: Bayesian Methods
