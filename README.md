@@ -17,6 +17,13 @@ Taught by [Manasi Vartak](http://people.csail.mit.edu/mvartak/).
 
 ### [Slides](slides/lec1.pdf)
 ### Resources
+- [MIT 6.867 Machine Learning](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+- [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [MIT 9.520 Statistical Learning Theory](http://www.mit.edu/~9.520/fall16/)
+- [CMU: Intro to Machine Learning](www.cs.cmu.edu/~epxing/Class/10701/)
+- [Michael Jordan Review of Graphical Models](https://www.cs.cmu.edu/~aarti/Class/10701/readings/graphical_model_Jordan.pdf)
+- [Coursera Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models/home)
+- [Columbia University: Probabilistic Graphical Models](http://www.cs.columbia.edu/~blei/fogm/2016F/)
 
 ## Session II: Inference
 
