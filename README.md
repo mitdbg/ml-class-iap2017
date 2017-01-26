@@ -6,7 +6,7 @@ This course gives a high-level overview of diverse areas of machine learning. Th
 
 The course covers an introduction to ML, Inference, Bayesian Methods and Neural Networks. Each class is taught by graduate students or post-docs at MIT working in the specific areas.
 
-The course was organized by [Manasi Vartak](http://people.csail.mit.edu/mvartak/) and [Maggie Makar](http://mmakar.scripts.mit.edu/mmakar/) from MIT CSAIL.
+Organized by [Manasi Vartak](http://people.csail.mit.edu/mvartak/) and [Maggie Makar](http://mmakar.scripts.mit.edu/mmakar/) from MIT CSAIL.
 
 ## Session I: Introduction to ML
 This session gives an overview of supervised and unsupervised learning, and an introduction to probabilistic graphical models.
