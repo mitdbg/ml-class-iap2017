@@ -42,11 +42,12 @@ Taught by [Maggie Makar](http://mmakar.scripts.mit.edu/mmakar/)
 
 Taught by [Trevor Campbell](http://trevorcampbell.me/)
 
-[Slides]()
+###[Slides]()
 ### Resources
 
 ## Session IV: Neural Networks
 
 Taught by [Carl Vondrick](http://web.mit.edu/vondrick/)
-[Slides]()
+
+###[Slides]()
 ### Resources
