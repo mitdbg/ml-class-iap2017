@@ -38,14 +38,14 @@ Taught by [Maggie Makar](http://mmakar.scripts.mit.edu/mmakar/)
 - [Tutorial on Sampling methods](http://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_ jordan_intromontecarlomachinelearning.pdf)
 - [A review (and really cool demos) of recent work on sampling](http://chifeng.scripts.mit.edu/stuff/mcmc-demo/)
 
-## Session III: Bayesian Methods
+## Session III: Bayesian Methods (TBD)
 
 Taught by [Trevor Campbell](http://trevorcampbell.me/)
 
 ###[Slides]()
 ### Resources
 
-## Session IV: Neural Networks
+## Session IV: Neural Networks (TBD)
 
 Taught by [Carl Vondrick](http://web.mit.edu/vondrick/)
 
