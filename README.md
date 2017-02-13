@@ -26,28 +26,33 @@ Taught by [Manasi Vartak](http://people.csail.mit.edu/mvartak/).
 - [Columbia University: Probabilistic Graphical Models](http://www.cs.columbia.edu/~blei/fogm/2016F/)
 
 ## Session II: Inference
-This session givesn an overview of (approximate) inference for probabilistic graphical models.
+This session gives an overview of (approximate) inference for probabilistic graphical models.
 
 _Concepts_: Gaussian Mixture Models, Variational Inference, Monte Carlo Sampling
 
 Taught by [Maggie Makar](http://mmakar.scripts.mit.edu/mmakar/)
 ###[Slides](slides/lec2.pdf)
 ### Resources
-- [Tutorial on VI](http://digitalassets.lib.berkeley.edu/ techreports/ucb/text/CSD-98-980.pdf)
+- [Tutorial on VI](http://digitalassets.lib.berkeley.edu/techreports/ucb/text/CSD-98-980.pdf)
 - [A Review of recent work on VI](https://arxiv.org/pdf/1602.05221v2.pdf), Section 5
-- [Tutorial on Sampling methods](http://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_ jordan_intromontecarlomachinelearning.pdf)
+- [Tutorial on Sampling methods](http://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf)
 - [A review (and really cool demos) of recent work on sampling](http://chifeng.scripts.mit.edu/stuff/mcmc-demo/)
 
-## Session III: Bayesian Methods (TBD)
+## Session III: Bayesian Methods
+This session gives a whirlwind tour of Bayesian Methods in ML.
+
+_Concepts_: What does it mean to be Bayesian in ML, Why be Bayesian, Posterior Inference, Parameteric vs. Non-Parametric Bayes
 
 Taught by [Trevor Campbell](http://trevorcampbell.me/)
-
-###[Slides]()
+###[Slides](https://docs.google.com/presentation/d/1qSYB8iDMIEInr0b4pn2M4Q0fSyFzyCBKFmO7j-6oLmM/edit#slide=id.p)
 ### Resources
+See slides!
 
-## Session IV: Neural Networks (TBD)
+## Session IV: Neural Networks
+This session gives an overview of neural networks, particularly as applied to computer vision.
+
+_Concepts_: Neural Nets, Convolutional NNs, AlexNet, GoogleLeNet, Transfer learning
 
 Taught by [Carl Vondrick](http://web.mit.edu/vondrick/)
-
-###[Slides]()
-### Resources
+###[Slides](http://6.869.csail.mit.edu/fa15/lecture/6.869-DeepLearningApplications3.pdf)
+Note: these slides are not exactly the ones that were presented in class. Please feel free to reach out to Carl if you need information that's not in these slides.
